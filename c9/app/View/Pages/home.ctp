@@ -16,9 +16,9 @@
 		</thead>
 	</table>
 
-	<p align="center">SISTEMA DE CONTROL DE CREDITOS COMPLEMENTARIOS PARA LA CARRERA DE  
+	<p align="center">Sistema De Control De Créditos complementarios Para La Carrera De
    		<br>
-   		INGENIERIA EN SISTEMAS COMPUTACIONALES
+   		INGENIERÍA EN SISTEMAS COMPUTACIONALES
    				</p>
 </div>
 
